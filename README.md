@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ah19190
+- 👋 Hi, I’m Brendan
 - 👀 I’m interested in how things work. How do computers work? 
-- 🌱 I’m currently learning C++ using CS50. I am hoping to get a start on my coding journey. 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently an MSc Computing student @ Imperial College London. 
 - 📫 How to reach me ...
 
 <!---
